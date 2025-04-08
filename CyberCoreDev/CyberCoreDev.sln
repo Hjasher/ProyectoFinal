@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberCoreDev", "CyberCoreDev\CyberCoreDev.csproj", "{1C395495-5E29-404E-B88E-CD216588BC36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C395495-5E29-404E-B88E-CD216588BC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C395495-5E29-404E-B88E-CD216588BC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C395495-5E29-404E-B88E-CD216588BC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C395495-5E29-404E-B88E-CD216588BC36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A69BC69A-D9F9-41B6-BB1D-C2B2ED599A8A}
+	EndGlobalSection
+EndGlobal

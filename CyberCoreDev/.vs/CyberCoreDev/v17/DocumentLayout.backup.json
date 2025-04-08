@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\models\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\models\\requiredifattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\requiredifattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\models\\futuredateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\futuredateattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\models\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\models\\reporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\reporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\models\\reporteinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\reporteinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\models\\ram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\ram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\models\\procesador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\procesador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\models\\placabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\placabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\models\\gpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\gpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\models\\gabinete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\gabinete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\models\\fuentepoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\fuentepoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\models\\almacenamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\almacenamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\models\\componentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\componentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FutureDateAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\FutureDateAttribute.cs",
+              "RelativeDocumentMoniker": "CyberCoreDev\\Models\\FutureDateAttribute.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\FutureDateAttribute.cs",
+              "RelativeToolTip": "CyberCoreDev\\Models\\FutureDateAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:50:05.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequiredIfAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\RequiredIfAttribute.cs",
+              "RelativeDocumentMoniker": "CyberCoreDev\\Models\\RequiredIfAttribute.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\RequiredIfAttribute.cs",
+              "RelativeToolTip": "CyberCoreDev\\Models\\RequiredIfAttribute.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:47:17.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "CyberCoreDev\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Usuario.cs",
+              "RelativeToolTip": "CyberCoreDev\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:22:59.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReporteVentas.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\ReporteVentas.cs",
+              "RelativeDocumentMoniker": "CyberCoreDev\\Models\\ReporteVentas.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\ReporteVentas.cs",
+              "RelativeToolTip": "CyberCoreDev\\Models\\ReporteVentas.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:17:54.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReporteInventario.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\ReporteInventario.cs",
+              "RelativeDocumentMoniker": "CyberCoreDev\\Models\\ReporteInventario.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\ReporteInventario.cs",
+              "RelativeToolTip": "CyberCoreDev\\Models\\ReporteInventario.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:16:17.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MetodoPago.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\MetodoPago.cs",
+              "RelativeDocumentMoniker": "CyberCoreDev\\Models\\MetodoPago.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\MetodoPago.cs",
+              "RelativeToolTip": "CyberCoreDev\\Models\\MetodoPago.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:12:07.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Orden.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Orden.cs",
+              "RelativeDocumentMoniker": "CyberCoreDev\\Models\\Orden.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Orden.cs",
+              "RelativeToolTip": "CyberCoreDev\\Models\\Orden.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:11:34.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "CyberCoreDev\\Models\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\LoginDTO.cs",
+              "RelativeToolTip": "CyberCoreDev\\Models\\LoginDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:11:15.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Carrito.cs",
+              "RelativeDocumentMoniker": "CyberCoreDev\\Models\\Carrito.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Carrito.cs",
+              "RelativeToolTip": "CyberCoreDev\\Models\\Carrito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:09:59.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RAM.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\RAM.cs",
+              "RelativeDocumentMoniker": "CyberCoreDev\\Models\\RAM.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\RAM.cs",
+              "RelativeToolTip": "CyberCoreDev\\Models\\RAM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:08:00.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Procesador.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Procesador.cs",
+              "RelativeDocumentMoniker": "CyberCoreDev\\Models\\Procesador.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Procesador.cs",
+              "RelativeToolTip": "CyberCoreDev\\Models\\Procesador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:07:41.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlacaBase.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\PlacaBase.cs",
+              "RelativeDocumentMoniker": "CyberCoreDev\\Models\\PlacaBase.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\PlacaBase.cs",
+              "RelativeToolTip": "CyberCoreDev\\Models\\PlacaBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:07:19.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GPU.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\GPU.cs",
+              "RelativeDocumentMoniker": "CyberCoreDev\\Models\\GPU.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\GPU.cs",
+              "RelativeToolTip": "CyberCoreDev\\Models\\GPU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:06:59.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Gabinete.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Gabinete.cs",
+              "RelativeDocumentMoniker": "CyberCoreDev\\Models\\Gabinete.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Gabinete.cs",
+              "RelativeToolTip": "CyberCoreDev\\Models\\Gabinete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:06:38.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FuentePoder.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\FuentePoder.cs",
+              "RelativeDocumentMoniker": "CyberCoreDev\\Models\\FuentePoder.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\FuentePoder.cs",
+              "RelativeToolTip": "CyberCoreDev\\Models\\FuentePoder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:06:24.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Almacenamiento.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Almacenamiento.cs",
+              "RelativeDocumentMoniker": "CyberCoreDev\\Models\\Almacenamiento.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Almacenamiento.cs",
+              "RelativeToolTip": "CyberCoreDev\\Models\\Almacenamiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:06:04.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Componentes.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Componentes.cs",
+              "RelativeDocumentMoniker": "CyberCoreDev\\Models\\Componentes.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Componentes.cs",
+              "RelativeToolTip": "CyberCoreDev\\Models\\Componentes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:05:27.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

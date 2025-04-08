@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberCoreAPI", "CyberCoreAPI\CyberCoreAPI.csproj", "{123BF3AD-06FA-4721-84B3-CF1FC7A50066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{123BF3AD-06FA-4721-84B3-CF1FC7A50066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{123BF3AD-06FA-4721-84B3-CF1FC7A50066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{123BF3AD-06FA-4721-84B3-CF1FC7A50066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{123BF3AD-06FA-4721-84B3-CF1FC7A50066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C52BFD69-3367-4EAE-836A-501FD798D880}
+	EndGlobalSection
+EndGlobal
