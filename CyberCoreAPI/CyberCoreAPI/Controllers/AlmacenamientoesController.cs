@@ -102,6 +102,7 @@ namespace CyberCoreAPI.Controllers
             almExistente.TipoAlmacenamiento = alm.TipoAlmacenamiento;
             almExistente.VelocidadLectura = alm.VelocidadLectura;
             almExistente.VelocidadEscritura = alm.VelocidadEscritura;
+            almExistente.Categoria = alm.Categoria;
 
 
             try

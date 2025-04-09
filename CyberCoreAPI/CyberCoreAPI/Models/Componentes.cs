@@ -8,7 +8,17 @@ namespace CyberCoreAPI.Models
 {
 	public class Componentes
 	{
-		public int ID { get; set; }
+        /*public enum CategoriaComponente
+        {
+            Procesador,
+            MemoriaRAM,
+            TarjetaGrafica,
+            Almacenamiento,
+            PlacaBase,
+            FuenteDePoder,
+            Gabinete,
+        }*/
+        public int ID { get; set; }
         public string Nombre { get; set; }
         public string Marca { get; set; }
         public double Precio { get; set; }

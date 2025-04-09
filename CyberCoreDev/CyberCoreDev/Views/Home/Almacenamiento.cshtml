@@ -1,0 +1,111 @@
+﻿@model IEnumerable<CyberCoreDev.Models.Almacenamiento>
+
+@{
+    ViewBag.Title = "Administración de Almacenamiento";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using DevExtreme.AspNet.Mvc
+
+<div class="container">
+    <h2>@ViewBag.Title</h2>
+
+    @(Html.DevExtreme().DataGrid<CyberCoreDev.Models.Almacenamiento>()
+        .ID("gridAlmacenamiento")
+        .DataSource(ds => ds.WebApi()
+        .Controller("Almacenamiento")
+        .LoadAction("Get")
+        .InsertAction("Post")
+        .UpdateAction("Put")
+        .DeleteAction("Delete")
+        .Key("ID")
+        .OnBeforeSend("customizeRequest")
+    )
+        .ShowBorders(true)
+        .FilterRow(f => f.Visible(true))
+        .HeaderFilter(f => f.Visible(true))
+        .Paging(p => p.PageSize(10))
+        .Pager(p => p
+            .ShowPageSizeSelector(true)
+            .AllowedPageSizes(new[] { 5, 10, 20 })
+        )
+        .SearchPanel(s => s.Visible(true))
+        .RemoteOperations(true)
+        .Columns(columns => {
+            columns.Add().DataField("ID").Visible(false);
+
+            // Columnas heredadas de Componente
+            columns.Add().DataField("Nombre")
+                .Caption("Producto");
+            columns.Add().DataField("Marca")
+                .Width(120);
+            columns.Add().DataField("Precio")
+                .DataType(GridColumnDataType.Number)
+                .Format("$#,##0.00");
+
+            // Columnas específicas de Almacenamiento
+            columns.Add().DataField("TipoAlmacenamiento")
+                .Caption("Tipo")
+                .Width(100);
+            columns.Add().DataField("Capacidad")
+                .Caption("Capacidad (GB)")
+                .DataType(GridColumnDataType.Number)
+                .Format("#,##0");
+        })
+        .Editing(e => e
+            .AllowAdding(true)
+            .AllowUpdating(true)
+            .AllowDeleting(true)
+            .Mode(GridEditMode.Popup)
+            .UseIcons(true)
+            .Form(f => f.ColCount(2))
+        )
+        .OnToolbarPreparing("onToolbarPreparing")
+        .OnContentReady("onContentReady")
+    )
+</div>
+
+@section scripts {
+    <script>
+        function customizeRequest(method, ajaxOptions) {
+            console.log(`${method} request`, ajaxOptions);
+            if (method === "update" || method === "insert") {
+                ajaxOptions.data = {
+                    key: ajaxOptions.data.key,
+                    values: JSON.stringify(ajaxOptions.data.values)
+                };
+                ajaxOptions.contentType = "application/json";
+            }
+        }
+
+        function onToolbarPreparing(e) {
+            e.toolbarOptions.items.unshift({
+                location: "after",
+                widget: "dxButton",
+                options: {
+                    icon: "refresh",
+                    hint: "Actualizar datos",
+                    onClick: function () {
+                        e.component.refresh();
+                    }
+                }
+            });
+        }
+
+        function onContentReady(e) {
+            e.component.option("loadPanel.enabled", false);
+        }
+    </script>
+    <script>
+        function customizeRequest(method, ajaxOptions) {
+            if (method === "update") {
+                // Estructurar los datos como JSON puro
+                ajaxOptions.data = JSON.stringify({
+                    key: ajaxOptions.data.key,
+                    values: ajaxOptions.data.values
+                });
+                ajaxOptions.contentType = "application/json";
+            }
+        }
+    </script>
+}

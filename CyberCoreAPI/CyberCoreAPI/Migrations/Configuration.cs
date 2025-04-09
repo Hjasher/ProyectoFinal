@@ -22,17 +22,14 @@
 
             if (!context.Usuario.Any(u => u.esAdmin))
             {
-                context.Usuario.AddOrUpdate(
-                    new Usuario
-                    {
-                        Nombre = "Admin Principal",
-                        Correo = "hjasher204@gmail.com",
-                        Contraseña = "admin1234",
-                        esAdmin = true,
-                    }
-                );
+                context.Usuario.Add(new Usuario
+                {
+                    Nombre = "Hjasher",
+                    Correo = "hjasher204@gmail.com",
+                    Contraseña = "1234",
+                    esAdmin = true
+                });
                 context.SaveChanges();
-
 
                 Console.WriteLine("Usuario admin inicial creado: hjasher204@gmail.com");
             }

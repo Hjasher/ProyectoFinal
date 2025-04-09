@@ -351,6 +351,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Web.config" />
+    <Content Include="Views\Home\Almacenamiento.cshtml" />
+    <Content Include="Views\Home\Usuario.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -364,8 +366,17 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\AlmacenamientoController.cs" />
+    <Compile Include="Controllers\ComponentesController.cs" />
+    <Compile Include="Controllers\FuentePoderController.cs" />
+    <Compile Include="Controllers\GabineteController.cs" />
+    <Compile Include="Controllers\GPUController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\PlacaBaseController.cs" />
+    <Compile Include="Controllers\ProcesadorController.cs" />
+    <Compile Include="Controllers\RAMController.cs" />
     <Compile Include="Controllers\SampleDataController.cs" />
+    <Compile Include="Controllers\UsuarioController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

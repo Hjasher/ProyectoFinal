@@ -68,11 +68,11 @@ namespace CyberCoreAPI.Controllers
             }
 
             // Verificar si el usuario actual es admin o el propio usuario
-            var usuarioActualId = int.Parse(User.Identity.Name);
+            /*var usuarioActualId = int.Parse(User.Identity.Name);
             if (usuarioActualId != id && !User.IsInRole("Admin"))
             {
                 return Unauthorized();
-            }
+            }*/
 
             return Ok(usuario);
         }
@@ -104,13 +104,13 @@ namespace CyberCoreAPI.Controllers
             }
 
             // obtenemos el id del usuario actual a traves de las claims del token JWT
-            var usuarioActualId = int.Parse(User.Identity.Name);
+            /*var usuarioActualId = int.Parse(User.Identity.Name);
 
             // Verificamos si el usuario actual es el mismo que el usuario a modificar o si es un administrador
             if (usuarioActualId != id && !User.IsInRole("Admin"))
             {
                 return Unauthorized(); // Si no es el usuario actual o un admin no tiene permisos para modificar 
-            }
+            }*/
 
             
             usuarioExistente.Nombre = usuario.Nombre;

@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Usuario";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Usuario</h2>
+
+@(Html.DevExtreme().DataGrid<CyberCoreDev.Models.Usuario>()
+    .DataSource(ds => ds.WebApi()
+        .Controller("Usuario")
+        .LoadAction("Get")
+        .InsertAction("Post")
+        .UpdateAction("Put")
+        .DeleteAction("Delete")
+        .Key("ID")
+    )
+    .RemoteOperations(true)
+    .Columns(columns => {
+        columns.AddFor(m => m.ID);
+        columns.AddFor(m => m.Nombre);
+        columns.AddFor(m => m.Correo);
+        columns.AddFor(m => m.Contraseña);
+        columns.AddFor(m => m.esAdmin);
+    })
+    .Editing(e => e
+        .AllowAdding(true)
+        .AllowUpdating(true)
+        .AllowDeleting(true)
+    )
+)
+
