@@ -154,6 +154,7 @@
     <Content Include="Content\dx.fluent.blue.dark.css" />
     <Content Include="Content\dx.fluent.blue.light.compact.css" />
     <Content Include="Content\dx.fluent.blue.light.css" />
+    <Content Include="Content\dx.fluent.custom-scheme.css" />
     <Content Include="Content\dx.fluent.saas.dark.compact.css" />
     <Content Include="Content\dx.fluent.saas.dark.css" />
     <Content Include="Content\dx.fluent.saas.light.compact.css" />

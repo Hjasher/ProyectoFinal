@@ -21,7 +21,6 @@ namespace CyberCoreDev.Controllers
         {
             var apiUrl = "https://localhost:44310/api/Almacenamientoes";
             var respuestaJson = await GetAsync(apiUrl);
-            //System.Diagnostics.Debug.WriteLine(respuestaJson); imprimir info
             List<Almacenamiento> listaAlmacenamiento = JsonConvert.DeserializeObject<List<Almacenamiento>>(respuestaJson);
             return Request.CreateResponse(DataSourceLoader.Load(listaAlmacenamiento, loadOptions));
         }
@@ -51,8 +50,12 @@ namespace CyberCoreDev.Controllers
         [HttpPost]
         public async Task<HttpResponseMessage> Post(FormDataCollection form)
         {
-
             var values = form.Get("values");
+
+            if (values == null)
+            {
+                return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "Values cannot be null");
+            }
 
             var httpContent = new StringContent(values, System.Text.Encoding.UTF8, "application/json");
 

@@ -1,18 +1,75 @@
 ﻿@model IEnumerable<CyberCoreDev.Models.Almacenamiento>
 
 @{
-    ViewBag.Title = "Administración de Almacenamiento";
+    ViewBag.Title = "Unidades de Almacenamiento";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 @using DevExtreme.AspNet.Mvc
 
-<div class="container">
-    <h2>@ViewBag.Title</h2>
+<style>
+    /* Estilos mejorados para el DataGrid */
+    #gridAlmacenamiento {
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        border-radius: 8px;
+        margin-top: 20px;
+    }
+
+    .dx-datagrid-headers .dx-header-row > td {
+        white-space: normal !important;
+        line-height: 1.4;
+        vertical-align: middle;
+        padding: 8px !important;
+        background-color: #f8f9fa;
+        font-weight: 600;
+    }
+
+    .dx-datagrid .dx-datagrid-header-panel {
+        padding: 8px 0;
+    }
+
+    .dx-datagrid .dx-column-indicators {
+        margin-left: 4px;
+    }
+
+    .dx-datagrid-rowsview {
+        font-size: 14px;
+    }
+
+    /* Estilos para iconos en Master-Detail */
+    .dx-master-detail-cell .fa,
+    .dx-master-detail-cell .fas {
+        color: #2a5885;
+        margin-right: 8px;
+        width: 16px;
+        display: inline-block;
+        text-align: center;
+    }
+
+    /* Mejor espaciado en el formulario de edición */
+    .dx-popup-content {
+        padding: 15px !important;
+    }
+
+    /* Adaptación para móviles */
+    @@media (max-width: 768px) {
+        #gridAlmacenamiento {
+            height: 70vh !important;
+        }
+
+        .dx-datagrid-headers .dx-header-row > td {
+            padding: 6px 4px !important;
+            font-size: 12px;
+        }
+    }
+</style>
+
+<div class="container-fluid px-4">
+    <h2 class="my-4">@ViewBag.Title</h2>
 
     @(Html.DevExtreme().DataGrid<CyberCoreDev.Models.Almacenamiento>()
-        .ID("gridAlmacenamiento")
-        .DataSource(ds => ds.WebApi()
+    .ID("gridAlmacenamiento")
+    .DataSource(ds => ds.WebApi()
         .Controller("Almacenamiento")
         .LoadAction("Get")
         .InsertAction("Post")
@@ -21,89 +78,177 @@
         .Key("ID")
         .OnBeforeSend("customizeRequest")
     )
-        .ShowBorders(true)
-        .FilterRow(f => f.Visible(true))
-        .HeaderFilter(f => f.Visible(true))
-        .Paging(p => p.PageSize(10))
-        .Pager(p => p
-            .ShowPageSizeSelector(true)
-            .AllowedPageSizes(new[] { 5, 10, 20 })
-        )
-        .SearchPanel(s => s.Visible(true))
-        .RemoteOperations(true)
-        .Columns(columns => {
-            columns.Add().DataField("ID").Visible(false);
+    .Width("100%")
+    .Height("80vh")
+    .WordWrapEnabled(true)
+    .AllowColumnResizing(true)
+    .ColumnAutoWidth(false)
+    .ColumnResizingMode(ColumnResizingMode.Widget)
+    .ShowBorders(true)
+    .FilterRow(f => f.Visible(true))
+    .HeaderFilter(f => f.Visible(true))
+    .Paging(p => p.PageSize(10))
+    .Pager(p => p
+        .ShowPageSizeSelector(true)
+        .AllowedPageSizes(new[] { 5, 10, 20 })
+        .ShowInfo(true)
+    )
+    .SearchPanel(s => s
+        .Visible(true)
+        .Width(300)
+        .Placeholder("Buscar...")
+    )
+    .RemoteOperations(true)
+    .Columns(columns =>
+    {
+        columns.Add().DataField("ID").Visible(false);
 
-            // Columnas heredadas de Componente
-            columns.Add().DataField("Nombre")
-                .Caption("Producto");
-            columns.Add().DataField("Marca")
-                .Width(120);
-            columns.Add().DataField("Precio")
-                .DataType(GridColumnDataType.Number)
-                .Format("$#,##0.00");
+        columns.Add().DataField("Nombre")
+            .Caption("Producto")
+            .MinWidth(150);
 
-            // Columnas específicas de Almacenamiento
-            columns.Add().DataField("TipoAlmacenamiento")
-                .Caption("Tipo")
-                .Width(100);
-            columns.Add().DataField("Capacidad")
-                .Caption("Capacidad (GB)")
-                .DataType(GridColumnDataType.Number)
-                .Format("#,##0");
-        })
-        .Editing(e => e
-            .AllowAdding(true)
-            .AllowUpdating(true)
-            .AllowDeleting(true)
-            .Mode(GridEditMode.Popup)
-            .UseIcons(true)
-            .Form(f => f.ColCount(2))
+        columns.Add().DataField("Marca")
+            .Caption("Marca")
+            .MinWidth(120);
+
+        columns.Add().DataField("Precio")
+            .Caption("Precio (USD)")
+            .DataType(GridColumnDataType.Number)
+            .Format("$#,##0.00")
+            .MinWidth(120);
+
+        columns.Add().DataField("Stock")
+            .Caption("Stock")
+            .DataType(GridColumnDataType.Number)
+            .MinWidth(80);
+
+        columns.Add().DataField("Capacidad")
+            .Caption("Capacidad (GB)")
+            .DataType(GridColumnDataType.Number)
+            .Format("#,##0")
+            .MinWidth(120);
+
+        columns.Add().DataField("TipoAlmacenamiento")
+            .Caption("Tipo Almacenamiento")
+            .MinWidth(150);
+    })
+    .Editing(e => e
+        .AllowAdding(true)
+        .AllowUpdating(true)
+        .AllowDeleting(true)
+        .Mode(GridEditMode.Popup)
+        .UseIcons(true)
+        .Popup(p => p
+            .Title("Editar Almacenamiento")
+            .ShowTitle(true)
+            .Width(700)
+            .Height("auto")
         )
-        .OnToolbarPreparing("onToolbarPreparing")
+        .Form(f => f
+            .ColCount(2)
+            .Items(items => {
+            items.AddGroup()
+                    .Caption("Información Principal")
+                    .Items(groupItems => {
+                    groupItems.AddSimpleFor(m => m.Nombre)
+                            .Label(l => l.Template(@<text><i class="fas fa-tag"></i> Producto</text>));
+
+                            groupItems.AddSimpleFor(m => m.Marca)
+                                .Label(l => l.Template(@<text><i class="fas fa-copyright"></i> Marca</text>));
+
+                            groupItems.AddSimpleFor(m => m.Categoria)
+                                .Label(l => l.Template(@<text><i class="fas fa-layer-group"></i> Categoría</text>));
+                        });
+
+                    items.AddGroup()
+                        .Caption("Especificaciones")
+                        .Items(groupItems => {
+                            groupItems.AddSimpleFor(m => m.TipoAlmacenamiento)
+                                .Label(l => l.Template(@<text><i class="fas fa-hdd"></i> Tipo</text>));
+
+                            groupItems.AddSimpleFor(m => m.Capacidad)
+                                .Label(l => l.Template(@<text><i class="fas fa-sd-card"></i> Capacidad (GB)</text>))
+                                .Editor(y => y.NumberBox().Format("#,##0"));
+
+                            groupItems.AddSimpleFor(m => m.VelocidadLectura)
+                                .Label(l => l.Template(@<text><i class="fas fa-tachometer-alt"></i> Vel. Lectura (MB/s)</text>))
+                                .Editor(y => y.NumberBox());
+
+                            groupItems.AddSimpleFor(m => m.VelocidadEscritura)
+                                .Label(l => l.Template(@<text><i class="fas fa-tachometer-alt"></i> Vel. Escritura (MB/s)</text>))
+                                .Editor(y => y.NumberBox());
+                        });
+
+                    items.AddGroup()
+                        .Caption("Inventario")
+                        .Items(groupItems => {
+                            groupItems.AddSimpleFor(m => m.Precio)
+                                .Label(l => l.Template(@<text><i class="fas fa-dollar-sign"></i> Precio</text>))
+                                .Editor(y => y.NumberBox().Format("$#,##0.00"));
+
+                            groupItems.AddSimpleFor(m => m.Stock)
+                                .Label(l => l.Template(@<text><i class="fas fa-boxes"></i> Stock</text>))
+                                .Editor(y => y.NumberBox());
+                        });
+
+                    items.AddGroup()
+                        .Caption("Descripción")
+                        .ColSpan(2)
+                        .Items(groupItems => {
+                            groupItems.AddSimpleFor(m => m.Descripcion)
+                                .Label(l => l.Template(@<text><i class="fas fa-align-left"></i> Descripción</text>))
+                                .Editor(y => y.TextArea().Height(100));
+                        });
+                })
+            )
+        )
+        .MasterDetail(md => md
+            .Enabled(true)
+            .Template(@<text>
+                <div style="padding: 15px;">
+                    <h4><i class="fas fa-info-circle"></i> Detalles Técnicos</h4>
+
+                    <div style="display: grid; grid-template-columns: max-content auto; gap: 10px; align-items: center;">
+                        <div><i class="fas fa-id-card"></i> <strong>ID:</strong></div>
+                        <div><%- data.ID %></div>
+
+                        <div><i class="fas fa-layer-group"></i> <strong>Categoría:</strong></div>
+                        <div><%- data.Categoria %></div>
+
+                        <div><i class="fas fa-tachometer-alt"></i> <strong>Vel. Lectura:</strong></div>
+                        <div><%- data.VelocidadLectura %> MB/s</div>
+
+                        <div><i class="fas fa-tachometer-alt"></i> <strong>Vel. Escritura:</strong></div>
+                        <div><%- data.VelocidadEscritura %> MB/s</div>
+
+                        <div><i class="fas fa-align-left"></i> <strong>Descripción:</strong></div>
+                        <div style="grid-column: 2"><%- data.Descripcion %></div>
+                    </div>
+                </div>
+            </text>)
+        )
         .OnContentReady("onContentReady")
     )
 </div>
 
 @section scripts {
     <script>
-        function customizeRequest(method, ajaxOptions) {
-            console.log(`${method} request`, ajaxOptions);
-            if (method === "update" || method === "insert") {
-                ajaxOptions.data = {
-                    key: ajaxOptions.data.key,
-                    values: JSON.stringify(ajaxOptions.data.values)
-                };
-                ajaxOptions.contentType = "application/json";
-            }
-        }
+        function onContentReady(e) {
+            e.component.option("loadPanel.enabled", false);
 
-        function onToolbarPreparing(e) {
-            e.toolbarOptions.items.unshift({
-                location: "after",
-                widget: "dxButton",
-                options: {
-                    icon: "refresh",
-                    hint: "Actualizar datos",
-                    onClick: function () {
-                        e.component.refresh();
-                    }
-                }
+            // Agrega tooltips a los encabezados
+            $(".dx-header-row .dx-datagrid-text-content").each(function () {
+                $(this).parent().attr("title", $(this).text());
             });
         }
 
-        function onContentReady(e) {
-            e.component.option("loadPanel.enabled", false);
-        }
-    </script>
-    <script>
         function customizeRequest(method, ajaxOptions) {
-            if (method === "update") {
-                // Estructurar los datos como JSON puro
-                ajaxOptions.data = JSON.stringify({
-                    key: ajaxOptions.data.key,
-                    values: ajaxOptions.data.values
-                });
+            if (method === "insert" || method === "update") {
+                ajaxOptions.data = JSON.stringify(
+                    method === "insert"
+                        ? ajaxOptions.data.values
+                        : { key: ajaxOptions.data.key, values: ajaxOptions.data.values }
+                );
                 ajaxOptions.contentType = "application/json";
             }
         }

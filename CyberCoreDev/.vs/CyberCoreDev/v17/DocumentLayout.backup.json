@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\views\\home\\almacenamiento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\views\\home\\almacenamiento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\controllers\\almacenamientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\content\\dx.fluent.custom-scheme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\content\\dx.fluent.custom-scheme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\content\\dx.carmine.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\content\\dx.carmine.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\models\\almacenamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\almacenamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\models\\componentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\componentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\views\\home\\usuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\views\\home\\usuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\controllers\\almacenamientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\controllers\\almacenamientocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\models\\reporteventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,26 +67,6 @@
       "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\views\\home\\usuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\views\\home\\usuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\models\\componentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\componentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\models\\almacenamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\almacenamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,7 +75,7 @@
       "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\requiredifattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\models\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\models\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -73,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\models\\gpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,31 +99,31 @@
       "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\models\\fuentepoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\controllers\\placabasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\controllers\\placabasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\controllers\\placabasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\controllers\\fuentepodercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\controllers\\fuentepodercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\controllers\\fuentepodercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\controllers\\gabinetecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\controllers\\gabinetecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\controllers\\gabinetecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\controllers\\gpucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\controllers\\gpucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\controllers\\gpucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\controllers\\ramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\controllers\\ramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\controllers\\ramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\controllers\\procesadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\controllers\\procesadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\controllers\\procesadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|c:\\users\\pc\\source\\repos\\cybercoredev\\cybercoredev\\controllers\\componentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreDev\\cybercoredev\\controllers\\componentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C395495-5E29-404E-B88E-CD216588BC36}|CyberCoreDev\\CyberCoreDev.csproj|solutionrelative:cybercoredev\\controllers\\componentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -130,11 +138,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
+              "Title": "dx.fluent.custom-scheme.css",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Content\\dx.fluent.custom-scheme.css",
+              "RelativeDocumentMoniker": "CyberCoreDev\\Content\\dx.fluent.custom-scheme.css",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Content\\dx.fluent.custom-scheme.css",
+              "RelativeToolTip": "CyberCoreDev\\Content\\dx.fluent.custom-scheme.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-11T00:45:05.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dx.carmine.css",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Content\\dx.carmine.css",
+              "RelativeDocumentMoniker": "CyberCoreDev\\Content\\dx.carmine.css",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Content\\dx.carmine.css",
+              "RelativeToolTip": "CyberCoreDev\\Content\\dx.carmine.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-11T00:38:51.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Usuario.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Views\\Home\\Usuario.cshtml",
               "RelativeDocumentMoniker": "CyberCoreDev\\Views\\Home\\Usuario.cshtml",
@@ -147,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Controllers\\UsuarioController.cs",
@@ -160,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Controllers\\HomeController.cs",
@@ -173,46 +207,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Almacenamiento.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Views\\Home\\Almacenamiento.cshtml",
               "RelativeDocumentMoniker": "CyberCoreDev\\Views\\Home\\Almacenamiento.cshtml",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Views\\Home\\Almacenamiento.cshtml",
               "RelativeToolTip": "CyberCoreDev\\Views\\Home\\Almacenamiento.cshtml",
-              "ViewState": "AgIAABoAAAAAAAAAAAAmwGEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAkwMoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-09T02:26:36.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CyberCoreDev\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CyberCoreDev\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-09T01:52:37.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "AlmacenamientoController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Controllers\\AlmacenamientoController.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Controllers\\AlmacenamientoController.cs",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Controllers\\AlmacenamientoController.cs",
               "RelativeToolTip": "CyberCoreDev\\Controllers\\AlmacenamientoController.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAtwDYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T01:24:26.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "PlacaBaseController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Controllers\\PlacaBaseController.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Controllers\\PlacaBaseController.cs",
@@ -225,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "FuentePoderController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Controllers\\FuentePoderController.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Controllers\\FuentePoderController.cs",
@@ -238,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "GabineteController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Controllers\\GabineteController.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Controllers\\GabineteController.cs",
@@ -251,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "GPUController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Controllers\\GPUController.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Controllers\\GPUController.cs",
@@ -264,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "RAMController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Controllers\\RAMController.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Controllers\\RAMController.cs",
@@ -277,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "ProcesadorController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Controllers\\ProcesadorController.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Controllers\\ProcesadorController.cs",
@@ -290,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "ComponentesController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Controllers\\ComponentesController.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Controllers\\ComponentesController.cs",
@@ -303,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "FutureDateAttribute.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\FutureDateAttribute.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Models\\FutureDateAttribute.cs",
@@ -316,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "RequiredIfAttribute.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\RequiredIfAttribute.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Models\\RequiredIfAttribute.cs",
@@ -329,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Models\\Usuario.cs",
@@ -342,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "ReporteVentas.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\ReporteVentas.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Models\\ReporteVentas.cs",
@@ -355,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "ReporteInventario.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\ReporteInventario.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Models\\ReporteInventario.cs",
@@ -368,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "MetodoPago.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\MetodoPago.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Models\\MetodoPago.cs",
@@ -381,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Orden.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Orden.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Models\\Orden.cs",
@@ -394,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\LoginDTO.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Models\\LoginDTO.cs",
@@ -407,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "Carrito.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Carrito.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Models\\Carrito.cs",
@@ -420,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "RAM.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\RAM.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Models\\RAM.cs",
@@ -433,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Procesador.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Procesador.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Models\\Procesador.cs",
@@ -446,7 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "PlacaBase.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\PlacaBase.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Models\\PlacaBase.cs",
@@ -459,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "GPU.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\GPU.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Models\\GPU.cs",
@@ -472,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Gabinete.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Gabinete.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Models\\Gabinete.cs",
@@ -485,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "FuentePoder.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\FuentePoder.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Models\\FuentePoder.cs",
@@ -498,26 +532,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "Almacenamiento.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Almacenamiento.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Models\\Almacenamiento.cs",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Almacenamiento.cs",
               "RelativeToolTip": "CyberCoreDev\\Models\\Almacenamiento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T01:06:04.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "Componentes.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Componentes.cs",
               "RelativeDocumentMoniker": "CyberCoreDev\\Models\\Componentes.cs",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreDev\\CyberCoreDev\\Models\\Componentes.cs",
               "RelativeToolTip": "CyberCoreDev\\Models\\Componentes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T01:05:27.822Z",
               "EditorCaption": ""
