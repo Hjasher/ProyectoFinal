@@ -3,11 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\cybercoreapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|solutionrelative:cybercoreapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|c:\\users\\pc\\source\\repos\\cybercoreapi\\cybercoreapi\\controllers\\almacenamientoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|solutionrelative:cybercoreapi\\controllers\\almacenamientoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\cybercoreapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|solutionrelative:cybercoreapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\cybercoreapi\\models\\tarjetadebito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|solutionrelative:cybercoreapi\\models\\tarjetadebito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\cybercoreapi\\models\\almacenamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|solutionrelative:cybercoreapi\\models\\almacenamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|c:\\users\\pc\\source\\repos\\cybercoreapi\\cybercoreapi\\models\\componentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\cybercoreapi\\models\\componentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|solutionrelative:cybercoreapi\\models\\componentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,24 +35,8 @@
       "RelativeMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|solutionrelative:cybercoreapi\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\cybercoreapi\\controllers\\almacenamientoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|solutionrelative:cybercoreapi\\controllers\\almacenamientoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\cybercoreapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|solutionrelative:cybercoreapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\cybercoreapi\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|solutionrelative:cybercoreapi\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\cybercoreapi\\models\\tarjetadebito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|solutionrelative:cybercoreapi\\models\\tarjetadebito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\cybercoreapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|solutionrelative:cybercoreapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{123BF3AD-06FA-4721-84B3-CF1FC7A50066}|CyberCoreAPI\\CyberCoreAPI.csproj|C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\cybercoreapi\\models\\jwtauthenticationhandler .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\CyberCoreAPI\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "CyberCoreAPI\\Models\\Usuario.cs",
@@ -74,31 +74,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\CyberCoreAPI\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "CyberCoreAPI\\Controllers\\UsuariosController.cs",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\CyberCoreAPI\\Controllers\\UsuariosController.cs",
               "RelativeToolTip": "CyberCoreAPI\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwHAAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAwwHAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T03:59:50.328Z"
+              "WhenOpened": "2025-04-09T03:59:50.328Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "AlmacenamientoesController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\CyberCoreAPI\\Controllers\\AlmacenamientoesController.cs",
               "RelativeDocumentMoniker": "CyberCoreAPI\\Controllers\\AlmacenamientoesController.cs",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\CyberCoreAPI\\Controllers\\AlmacenamientoesController.cs",
               "RelativeToolTip": "CyberCoreAPI\\Controllers\\AlmacenamientoesController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAowB8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowBQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T03:11:44.924Z"
+              "WhenOpened": "2025-04-09T03:11:44.924Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\CyberCoreAPI\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "CyberCoreAPI\\Migrations\\Configuration.cs",
@@ -110,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Componentes.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\CyberCoreAPI\\Models\\Componentes.cs",
               "RelativeDocumentMoniker": "CyberCoreAPI\\Models\\Componentes.cs",
@@ -118,12 +120,11 @@
               "RelativeToolTip": "CyberCoreAPI\\Models\\Componentes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T01:40:22.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T01:40:22.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "TarjetaDebito.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\CyberCoreAPI\\Models\\TarjetaDebito.cs",
               "RelativeDocumentMoniker": "CyberCoreAPI\\Models\\TarjetaDebito.cs",
@@ -131,7 +132,8 @@
               "RelativeToolTip": "CyberCoreAPI\\Models\\TarjetaDebito.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T01:36:27.918Z"
+              "WhenOpened": "2025-04-08T01:36:27.918Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -147,19 +149,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\CyberCoreAPI\\Models\\LoginDTO.cs",
               "RelativeDocumentMoniker": "CyberCoreAPI\\Models\\LoginDTO.cs",
               "ToolTip": "C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\CyberCoreAPI\\Models\\LoginDTO.cs",
               "RelativeToolTip": "CyberCoreAPI\\Models\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T22:16:49.323Z"
+              "WhenOpened": "2025-04-06T22:16:49.323Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Carrito.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\CyberCoreAPI\\Models\\Carrito.cs",
               "RelativeDocumentMoniker": "CyberCoreAPI\\Models\\Carrito.cs",
@@ -195,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Almacenamiento.cs",
               "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CyberCoreAPI\\CyberCoreAPI\\Models\\Almacenamiento.cs",
               "RelativeDocumentMoniker": "CyberCoreAPI\\Models\\Almacenamiento.cs",
@@ -203,8 +206,7 @@
               "RelativeToolTip": "CyberCoreAPI\\Models\\Almacenamiento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T01:04:30.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T01:04:30.614Z"
             }
           ]
         }

@@ -8,7 +8,7 @@
 @using DevExtreme.AspNet.Mvc
 
 <style>
-    /* Estilos mejorados para el DataGrid */
+
     #gridAlmacenamiento {
         box-shadow: 0 0 10px rgba(0,0,0,0.1);
         border-radius: 8px;
@@ -36,7 +36,6 @@
         font-size: 14px;
     }
 
-    /* Estilos para iconos en Master-Detail */
     .dx-master-detail-cell .fa,
     .dx-master-detail-cell .fas {
         color: #2a5885;
@@ -46,12 +45,12 @@
         text-align: center;
     }
 
-    /* Mejor espaciado en el formulario de edición */
+
     .dx-popup-content {
         padding: 15px !important;
     }
 
-    /* Adaptación para móviles */
+
     @@media (max-width: 768px) {
         #gridAlmacenamiento {
             height: 70vh !important;
@@ -236,7 +235,6 @@
         function onContentReady(e) {
             e.component.option("loadPanel.enabled", false);
 
-            // Agrega tooltips a los encabezados
             $(".dx-header-row .dx-datagrid-text-content").each(function () {
                 $(this).parent().attr("title", $(this).text());
             });
